@@ -183,6 +183,7 @@ const ConsultantDashboard = () => {
         matchesSearch &&
         matchesStatus &&
         matchesPriority &&
+        matchesDate
         matchesDate &&
         assignedToSelf
       );
